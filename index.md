@@ -29,4 +29,6 @@
   - prva kora se premaže, pospu se orasi i se pospe šećer
   - pa stavis drugu koru, pa opet pospeš orahe i još malo šećera
   - pospi što je ostalo od kisele sa uljem po piti
-  - peci XX minuta
+  - peci dok ne porumeni minuta
+
+![Suva pita](suva_pita.jpg "Suva pita")
