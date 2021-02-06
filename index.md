@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Pite od kora
+## Pita sa orasima
+### Sastojci
+  - Pakovanje kora
+  - Malo ulja
+  - Orasi po želji i mogućnostima
+  - 400g šećera
+  - 2, 3 vanilina šećera
 
-You can use the [editor on GitHub](https://github.com/nemanjahrane/tastini_recepti/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Uputstvo
+  - Staviš 1 koru i malo je poprskas uljem, 
+  - na kraju, na vrhu te kore staviš orahe i malo pospeš onako čisto eto da ima po celoj kori, ali vrlo vrlo malo
+  - i onda kreneš sa uvijanjem... ne trebaju ti 2 kore nego samo 1 - tako je lakše lepše i tanje
+  - i tako uvijaš, uvijaš u štapić i pakujes u pleh
+  - onda pečeš XX minuta
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  - i onda staviš ovamo, 400g šećera i pola litra vode, 2,3 vanile, 
+  - prokuvaš to, onako malo kuvkaš kuvkaš da dobije neki gušći oblik... 
+  - kad probaš onako da je polu medeno.. da se rasteže, kao med ali da bude ređe malo.. onda preliješ hladnu pitu 
+  - i onda jedeš, prijatno
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nemanjahrane/tastini_recepti/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Pita sa orasima bez prelivanja kuvanim šećerom / suva pita
+### Sastojci
+  
+### Uputstvo
+  - podmaži prethodno pleh
+  - umutiš kiselu vodu sa uljem i metlicom premazuješ kore
+  - prva kora se premaže, pospu se orasi i se pospe šećer
+  - pa stavis drugu koru, pa opet pospeš orahe i još malo šećera
+  - pospi što je ostalo od kisele sa uljem po piti
+  - peci XX minuta
