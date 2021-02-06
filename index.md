@@ -12,7 +12,7 @@
   - na kraju, na vrhu te kore staviš orahe i malo pospeš onako čisto eto da ima po celoj kori, ali vrlo vrlo malo
   - i onda kreneš sa uvijanjem... ne trebaju ti 2 kore nego samo 1 - tako je lakše lepše i tanje
   - i tako uvijaš, uvijaš u štapić i pakujes u pleh
-  - onda pečeš XX minuta
+  - onda pečeš dok ne porumeni na 150-180 stepeni 
 
   - i onda staviš ovamo, 400g šećera i pola litra vode, 2,3 vanile, 
   - prokuvaš to, onako malo kuvkaš kuvkaš da dobije neki gušći oblik... 
